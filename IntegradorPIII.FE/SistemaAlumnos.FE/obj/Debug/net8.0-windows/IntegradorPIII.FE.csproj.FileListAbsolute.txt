@@ -1,0 +1,153 @@
+C:\Users\chris\Documents\_TUP\Programacion III\Proyecto2025.FE-main\SistemaAlumnos.FE\obj\Debug\net8.0-windows\IntegradorPIII.FE.csproj.AssemblyReference.cache
+C:\Users\chris\Documents\_TUP\Programacion III\Proyecto2025.FE-main\SistemaAlumnos.FE\obj\Debug\net8.0-windows\IntegradorPIII.FE.csproj.GenerateResource.cache
+C:\Users\chris\Documents\_TUP\Programacion III\Proyecto2025.FE-main\SistemaAlumnos.FE\obj\Debug\net8.0-windows\IntegradorPIII.FE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\Documents\_TUP\Programacion III\Proyecto2025.FE-main\SistemaAlumnos.FE\obj\Debug\net8.0-windows\IntegradorPIII.FE.AssemblyInfoInputs.cache
+C:\Users\chris\Documents\_TUP\Programacion III\Proyecto2025.FE-main\SistemaAlumnos.FE\obj\Debug\net8.0-windows\IntegradorPIII.FE.AssemblyInfo.cs
+C:\Users\chris\Documents\_TUP\Programacion III\Proyecto2025.FE-main\SistemaAlumnos.FE\obj\Debug\net8.0-windows\IntegradorPIII.FE.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\_TUP\Programacion III\Proyecto2025.FE-main\SistemaAlumnos.FE\bin\Debug\net8.0-windows\IntegradorPIII.FE.exe
+C:\Users\chris\Documents\_TUP\Programacion III\Proyecto2025.FE-main\SistemaAlumnos.FE\bin\Debug\net8.0-windows\IntegradorPIII.FE.deps.json
+C:\Users\chris\Documents\_TUP\Programacion III\Proyecto2025.FE-main\SistemaAlumnos.FE\bin\Debug\net8.0-windows\IntegradorPIII.FE.runtimeconfig.json
+C:\Users\chris\Documents\_TUP\Programacion III\Proyecto2025.FE-main\SistemaAlumnos.FE\bin\Debug\net8.0-windows\IntegradorPIII.FE.dll
+C:\Users\chris\Documents\_TUP\Programacion III\Proyecto2025.FE-main\SistemaAlumnos.FE\bin\Debug\net8.0-windows\IntegradorPIII.FE.pdb
+C:\Users\chris\Documents\_TUP\Programacion III\Proyecto2025.FE-main\SistemaAlumnos.FE\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\chris\Documents\_TUP\Programacion III\Proyecto2025.FE-main\SistemaAlumnos.FE\bin\Debug\net8.0-windows\System.Net.Http.Json.dll
+C:\Users\chris\Documents\_TUP\Programacion III\Proyecto2025.FE-main\SistemaAlumnos.FE\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\chris\Documents\_TUP\Programacion III\Proyecto2025.FE-main\SistemaAlumnos.FE\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\chris\Documents\_TUP\Programacion III\Proyecto2025.FE-main\SistemaAlumnos.FE\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\chris\Documents\_TUP\Programacion III\Proyecto2025.FE-main\SistemaAlumnos.FE\obj\Debug\net8.0-windows\Integrad.8F7BEFED.Up2Date
+C:\Users\chris\Documents\_TUP\Programacion III\Proyecto2025.FE-main\SistemaAlumnos.FE\obj\Debug\net8.0-windows\IntegradorPIII.FE.dll
+C:\Users\chris\Documents\_TUP\Programacion III\Proyecto2025.FE-main\SistemaAlumnos.FE\obj\Debug\net8.0-windows\refint\IntegradorPIII.FE.dll
+C:\Users\chris\Documents\_TUP\Programacion III\Proyecto2025.FE-main\SistemaAlumnos.FE\obj\Debug\net8.0-windows\IntegradorPIII.FE.pdb
+C:\Users\chris\Documents\_TUP\Programacion III\Proyecto2025.FE-main\SistemaAlumnos.FE\obj\Debug\net8.0-windows\IntegradorPIII.FE.genruntimeconfig.cache
+C:\Users\chris\Documents\_TUP\Programacion III\Proyecto2025.FE-main\SistemaAlumnos.FE\obj\Debug\net8.0-windows\ref\IntegradorPIII.FE.dll
+C:\Users\chris\Documents\_TUP\Programacion III\Proyecto2025.FE-main\SistemaAlumnos.FE\obj\Debug\net8.0-windows\IntegradorPIII.FE.Views.MateriasView.resources
+C:\Users\chris\Documents\_TUP\Programacion III\Proyecto2025.FE-main\SistemaAlumnos.FE\obj\Debug\net8.0-windows\IntegradorPIII.FE.Views.SistemaView.resources
+C:\Users\chris\Documents\_TUP\Programacion III\Proyecto2025.FE-main\SistemaAlumnos.FE\obj\Debug\net8.0-windows\IntegradorPIII.FE.AlumnosView.resources
+C:\Users\chris\Documents\_TUP\Programacion III\IntegradorPIII.FE\SistemaAlumnos.FE\bin\Debug\net8.0-windows\IntegradorPIII.FE.exe
+C:\Users\chris\Documents\_TUP\Programacion III\IntegradorPIII.FE\SistemaAlumnos.FE\bin\Debug\net8.0-windows\IntegradorPIII.FE.deps.json
+C:\Users\chris\Documents\_TUP\Programacion III\IntegradorPIII.FE\SistemaAlumnos.FE\bin\Debug\net8.0-windows\IntegradorPIII.FE.runtimeconfig.json
+C:\Users\chris\Documents\_TUP\Programacion III\IntegradorPIII.FE\SistemaAlumnos.FE\bin\Debug\net8.0-windows\IntegradorPIII.FE.dll
+C:\Users\chris\Documents\_TUP\Programacion III\IntegradorPIII.FE\SistemaAlumnos.FE\bin\Debug\net8.0-windows\IntegradorPIII.FE.pdb
+C:\Users\chris\Documents\_TUP\Programacion III\IntegradorPIII.FE\SistemaAlumnos.FE\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\chris\Documents\_TUP\Programacion III\IntegradorPIII.FE\SistemaAlumnos.FE\bin\Debug\net8.0-windows\System.Net.Http.Json.dll
+C:\Users\chris\Documents\_TUP\Programacion III\IntegradorPIII.FE\SistemaAlumnos.FE\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\chris\Documents\_TUP\Programacion III\IntegradorPIII.FE\SistemaAlumnos.FE\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\chris\Documents\_TUP\Programacion III\IntegradorPIII.FE\SistemaAlumnos.FE\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\chris\Documents\_TUP\Programacion III\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\IntegradorPIII.FE.csproj.AssemblyReference.cache
+C:\Users\chris\Documents\_TUP\Programacion III\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\IntegradorPIII.FE.AlumnosView.resources
+C:\Users\chris\Documents\_TUP\Programacion III\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\IntegradorPIII.FE.Views.MateriasView.resources
+C:\Users\chris\Documents\_TUP\Programacion III\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\IntegradorPIII.FE.Views.SistemaView.resources
+C:\Users\chris\Documents\_TUP\Programacion III\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\IntegradorPIII.FE.csproj.GenerateResource.cache
+C:\Users\chris\Documents\_TUP\Programacion III\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\IntegradorPIII.FE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\Documents\_TUP\Programacion III\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\IntegradorPIII.FE.AssemblyInfoInputs.cache
+C:\Users\chris\Documents\_TUP\Programacion III\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\IntegradorPIII.FE.AssemblyInfo.cs
+C:\Users\chris\Documents\_TUP\Programacion III\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\IntegradorPIII.FE.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\_TUP\Programacion III\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\Integrad.8F7BEFED.Up2Date
+C:\Users\chris\Documents\_TUP\Programacion III\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\IntegradorPIII.FE.dll
+C:\Users\chris\Documents\_TUP\Programacion III\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\refint\IntegradorPIII.FE.dll
+C:\Users\chris\Documents\_TUP\Programacion III\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\IntegradorPIII.FE.pdb
+C:\Users\chris\Documents\_TUP\Programacion III\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\IntegradorPIII.FE.genruntimeconfig.cache
+C:\Users\chris\Documents\_TUP\Programacion III\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\ref\IntegradorPIII.FE.dll
+C:\Users\chris\source\repos\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\bin\Debug\net8.0-windows\IntegradorPIII.FE.exe
+C:\Users\chris\source\repos\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\bin\Debug\net8.0-windows\IntegradorPIII.FE.deps.json
+C:\Users\chris\source\repos\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\bin\Debug\net8.0-windows\IntegradorPIII.FE.runtimeconfig.json
+C:\Users\chris\source\repos\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\bin\Debug\net8.0-windows\IntegradorPIII.FE.dll
+C:\Users\chris\source\repos\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\bin\Debug\net8.0-windows\IntegradorPIII.FE.pdb
+C:\Users\chris\source\repos\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\chris\source\repos\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\bin\Debug\net8.0-windows\System.Net.Http.Json.dll
+C:\Users\chris\source\repos\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\chris\source\repos\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\chris\source\repos\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\chris\source\repos\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\IntegradorPIII.FE.csproj.AssemblyReference.cache
+C:\Users\chris\source\repos\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\IntegradorPIII.FE.AlumnosView.resources
+C:\Users\chris\source\repos\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\IntegradorPIII.FE.Views.MateriasView.resources
+C:\Users\chris\source\repos\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\IntegradorPIII.FE.Views.SistemaView.resources
+C:\Users\chris\source\repos\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\IntegradorPIII.FE.csproj.GenerateResource.cache
+C:\Users\chris\source\repos\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\IntegradorPIII.FE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\source\repos\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\IntegradorPIII.FE.AssemblyInfoInputs.cache
+C:\Users\chris\source\repos\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\IntegradorPIII.FE.AssemblyInfo.cs
+C:\Users\chris\source\repos\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\IntegradorPIII.FE.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\Integrad.8F7BEFED.Up2Date
+C:\Users\chris\source\repos\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\IntegradorPIII.FE.dll
+C:\Users\chris\source\repos\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\refint\IntegradorPIII.FE.dll
+C:\Users\chris\source\repos\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\IntegradorPIII.FE.pdb
+C:\Users\chris\source\repos\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\IntegradorPIII.FE.genruntimeconfig.cache
+C:\Users\chris\source\repos\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\ref\IntegradorPIII.FE.dll
+C:\Users\valen\Downloads\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\bin\Debug\net8.0-windows\IntegradorPIII.FE.exe
+C:\Users\valen\Downloads\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\bin\Debug\net8.0-windows\IntegradorPIII.FE.deps.json
+C:\Users\valen\Downloads\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\bin\Debug\net8.0-windows\IntegradorPIII.FE.runtimeconfig.json
+C:\Users\valen\Downloads\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\bin\Debug\net8.0-windows\IntegradorPIII.FE.dll
+C:\Users\valen\Downloads\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\bin\Debug\net8.0-windows\IntegradorPIII.FE.pdb
+C:\Users\valen\Downloads\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\valen\Downloads\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\bin\Debug\net8.0-windows\System.Net.Http.Json.dll
+C:\Users\valen\Downloads\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\valen\Downloads\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\valen\Downloads\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\valen\Downloads\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\IntegradorPIII.FE.csproj.AssemblyReference.cache
+C:\Users\valen\Downloads\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\IntegradorPIII.FE.AlumnosView.resources
+C:\Users\valen\Downloads\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\IntegradorPIII.FE.Views.MateriasView.resources
+C:\Users\valen\Downloads\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\IntegradorPIII.FE.Views.SistemaView.resources
+C:\Users\valen\Downloads\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\IntegradorPIII.FE.csproj.GenerateResource.cache
+C:\Users\valen\Downloads\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\IntegradorPIII.FE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\Downloads\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\IntegradorPIII.FE.AssemblyInfoInputs.cache
+C:\Users\valen\Downloads\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\IntegradorPIII.FE.AssemblyInfo.cs
+C:\Users\valen\Downloads\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\IntegradorPIII.FE.csproj.CoreCompileInputs.cache
+C:\Users\valen\Downloads\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\Integrad.8F7BEFED.Up2Date
+C:\Users\valen\Downloads\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\IntegradorPIII.FE.dll
+C:\Users\valen\Downloads\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\refint\IntegradorPIII.FE.dll
+C:\Users\valen\Downloads\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\IntegradorPIII.FE.pdb
+C:\Users\valen\Downloads\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\IntegradorPIII.FE.genruntimeconfig.cache
+C:\Users\valen\Downloads\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\ref\IntegradorPIII.FE.dll
+C:\Users\valen\Downloads\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\IntegradorPIII.FE.Views.InscripcionView.resources
+C:\Users\chris\Downloads\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\bin\Debug\net8.0-windows\IntegradorPIII.FE.exe
+C:\Users\chris\Downloads\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\bin\Debug\net8.0-windows\IntegradorPIII.FE.deps.json
+C:\Users\chris\Downloads\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\bin\Debug\net8.0-windows\IntegradorPIII.FE.runtimeconfig.json
+C:\Users\chris\Downloads\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\bin\Debug\net8.0-windows\IntegradorPIII.FE.dll
+C:\Users\chris\Downloads\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\bin\Debug\net8.0-windows\IntegradorPIII.FE.pdb
+C:\Users\chris\Downloads\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\chris\Downloads\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\bin\Debug\net8.0-windows\System.Net.Http.Json.dll
+C:\Users\chris\Downloads\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\chris\Downloads\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\chris\Downloads\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\chris\Downloads\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\IntegradorPIII.FE.csproj.AssemblyReference.cache
+C:\Users\chris\Downloads\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\IntegradorPIII.FE.AlumnosView.resources
+C:\Users\chris\Downloads\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\IntegradorPIII.FE.Views.InscripcionView.resources
+C:\Users\chris\Downloads\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\IntegradorPIII.FE.Views.MateriasView.resources
+C:\Users\chris\Downloads\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\IntegradorPIII.FE.Views.SistemaView.resources
+C:\Users\chris\Downloads\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\IntegradorPIII.FE.csproj.GenerateResource.cache
+C:\Users\chris\Downloads\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\IntegradorPIII.FE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\Downloads\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\IntegradorPIII.FE.AssemblyInfoInputs.cache
+C:\Users\chris\Downloads\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\IntegradorPIII.FE.AssemblyInfo.cs
+C:\Users\chris\Downloads\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\IntegradorPIII.FE.csproj.CoreCompileInputs.cache
+C:\Users\chris\Downloads\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\Integrad.8F7BEFED.Up2Date
+C:\Users\chris\Downloads\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\IntegradorPIII.FE.dll
+C:\Users\chris\Downloads\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\refint\IntegradorPIII.FE.dll
+C:\Users\chris\Downloads\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\IntegradorPIII.FE.pdb
+C:\Users\chris\Downloads\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\IntegradorPIII.FE.genruntimeconfig.cache
+C:\Users\chris\Downloads\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\ref\IntegradorPIII.FE.dll
+C:\Users\chris\Documents\_TUP\Programacion III\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\bin\Debug\net8.0-windows\IntegradorPIII.FE.exe
+C:\Users\chris\Documents\_TUP\Programacion III\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\bin\Debug\net8.0-windows\IntegradorPIII.FE.deps.json
+C:\Users\chris\Documents\_TUP\Programacion III\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\bin\Debug\net8.0-windows\IntegradorPIII.FE.runtimeconfig.json
+C:\Users\chris\Documents\_TUP\Programacion III\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\bin\Debug\net8.0-windows\IntegradorPIII.FE.dll
+C:\Users\chris\Documents\_TUP\Programacion III\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\bin\Debug\net8.0-windows\IntegradorPIII.FE.pdb
+C:\Users\chris\Documents\_TUP\Programacion III\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\chris\Documents\_TUP\Programacion III\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\bin\Debug\net8.0-windows\System.Net.Http.Json.dll
+C:\Users\chris\Documents\_TUP\Programacion III\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\chris\Documents\_TUP\Programacion III\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\chris\Documents\_TUP\Programacion III\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\chris\Documents\_TUP\Programacion III\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\IntegradorPIII.FE.csproj.AssemblyReference.cache
+C:\Users\chris\Documents\_TUP\Programacion III\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\IntegradorPIII.FE.AlumnosView.resources
+C:\Users\chris\Documents\_TUP\Programacion III\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\IntegradorPIII.FE.Views.InscripcionView.resources
+C:\Users\chris\Documents\_TUP\Programacion III\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\IntegradorPIII.FE.Views.MateriasView.resources
+C:\Users\chris\Documents\_TUP\Programacion III\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\IntegradorPIII.FE.Views.SistemaView.resources
+C:\Users\chris\Documents\_TUP\Programacion III\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\IntegradorPIII.FE.csproj.GenerateResource.cache
+C:\Users\chris\Documents\_TUP\Programacion III\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\IntegradorPIII.FE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\Documents\_TUP\Programacion III\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\IntegradorPIII.FE.AssemblyInfoInputs.cache
+C:\Users\chris\Documents\_TUP\Programacion III\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\IntegradorPIII.FE.AssemblyInfo.cs
+C:\Users\chris\Documents\_TUP\Programacion III\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\IntegradorPIII.FE.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\_TUP\Programacion III\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\Integrad.8F7BEFED.Up2Date
+C:\Users\chris\Documents\_TUP\Programacion III\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\IntegradorPIII.FE.dll
+C:\Users\chris\Documents\_TUP\Programacion III\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\refint\IntegradorPIII.FE.dll
+C:\Users\chris\Documents\_TUP\Programacion III\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\IntegradorPIII.FE.pdb
+C:\Users\chris\Documents\_TUP\Programacion III\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\IntegradorPIII.FE.genruntimeconfig.cache
+C:\Users\chris\Documents\_TUP\Programacion III\IntegradorPIII\IntegradorPIII.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\ref\IntegradorPIII.FE.dll

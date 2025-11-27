@@ -1,0 +1,47 @@
+C:\Users\vespo.daniel\source\repos\SistemaAlumnos.FE\SistemaAlumnos.FE\bin\Debug\net8.0-windows\SistemaAlumnos.FE.exe
+C:\Users\vespo.daniel\source\repos\SistemaAlumnos.FE\SistemaAlumnos.FE\bin\Debug\net8.0-windows\SistemaAlumnos.FE.deps.json
+C:\Users\vespo.daniel\source\repos\SistemaAlumnos.FE\SistemaAlumnos.FE\bin\Debug\net8.0-windows\SistemaAlumnos.FE.runtimeconfig.json
+C:\Users\vespo.daniel\source\repos\SistemaAlumnos.FE\SistemaAlumnos.FE\bin\Debug\net8.0-windows\SistemaAlumnos.FE.dll
+C:\Users\vespo.daniel\source\repos\SistemaAlumnos.FE\SistemaAlumnos.FE\bin\Debug\net8.0-windows\SistemaAlumnos.FE.pdb
+C:\Users\vespo.daniel\source\repos\SistemaAlumnos.FE\SistemaAlumnos.FE\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\vespo.daniel\source\repos\SistemaAlumnos.FE\SistemaAlumnos.FE\bin\Debug\net8.0-windows\System.Net.Http.Json.dll
+C:\Users\vespo.daniel\source\repos\SistemaAlumnos.FE\SistemaAlumnos.FE\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\vespo.daniel\source\repos\SistemaAlumnos.FE\SistemaAlumnos.FE\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\vespo.daniel\source\repos\SistemaAlumnos.FE\SistemaAlumnos.FE\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\vespo.daniel\source\repos\SistemaAlumnos.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\SistemaAlumnos.FE.csproj.AssemblyReference.cache
+C:\Users\vespo.daniel\source\repos\SistemaAlumnos.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\SistemaAlumnos.FE.Form1.resources
+C:\Users\vespo.daniel\source\repos\SistemaAlumnos.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\SistemaAlumnos.FE.csproj.GenerateResource.cache
+C:\Users\vespo.daniel\source\repos\SistemaAlumnos.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\SistemaAlumnos.FE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vespo.daniel\source\repos\SistemaAlumnos.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\SistemaAlumnos.FE.AssemblyInfoInputs.cache
+C:\Users\vespo.daniel\source\repos\SistemaAlumnos.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\SistemaAlumnos.FE.AssemblyInfo.cs
+C:\Users\vespo.daniel\source\repos\SistemaAlumnos.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\SistemaAlumnos.FE.csproj.CoreCompileInputs.cache
+C:\Users\vespo.daniel\source\repos\SistemaAlumnos.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\SistemaA.3EC3AD23.Up2Date
+C:\Users\vespo.daniel\source\repos\SistemaAlumnos.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\SistemaAlumnos.FE.dll
+C:\Users\vespo.daniel\source\repos\SistemaAlumnos.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\refint\SistemaAlumnos.FE.dll
+C:\Users\vespo.daniel\source\repos\SistemaAlumnos.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\SistemaAlumnos.FE.pdb
+C:\Users\vespo.daniel\source\repos\SistemaAlumnos.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\SistemaAlumnos.FE.genruntimeconfig.cache
+C:\Users\vespo.daniel\source\repos\SistemaAlumnos.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\ref\SistemaAlumnos.FE.dll
+C:\Users\vespo.daniel\source\repos\SistemaAlumnos.FE\SistemaAlumnos.FE\obj\Debug\net8.0-windows\SistemaAlumnos.FE.sourcelink.json
+C:\Users\chris\Documents\_TUP\Programacion III\Proyecto2025.FE-main\SistemaAlumnos.FE\bin\Debug\net8.0-windows\SistemaAlumnos.FE.exe
+C:\Users\chris\Documents\_TUP\Programacion III\Proyecto2025.FE-main\SistemaAlumnos.FE\bin\Debug\net8.0-windows\SistemaAlumnos.FE.deps.json
+C:\Users\chris\Documents\_TUP\Programacion III\Proyecto2025.FE-main\SistemaAlumnos.FE\bin\Debug\net8.0-windows\SistemaAlumnos.FE.runtimeconfig.json
+C:\Users\chris\Documents\_TUP\Programacion III\Proyecto2025.FE-main\SistemaAlumnos.FE\bin\Debug\net8.0-windows\SistemaAlumnos.FE.dll
+C:\Users\chris\Documents\_TUP\Programacion III\Proyecto2025.FE-main\SistemaAlumnos.FE\bin\Debug\net8.0-windows\SistemaAlumnos.FE.pdb
+C:\Users\chris\Documents\_TUP\Programacion III\Proyecto2025.FE-main\SistemaAlumnos.FE\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\chris\Documents\_TUP\Programacion III\Proyecto2025.FE-main\SistemaAlumnos.FE\bin\Debug\net8.0-windows\System.Net.Http.Json.dll
+C:\Users\chris\Documents\_TUP\Programacion III\Proyecto2025.FE-main\SistemaAlumnos.FE\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\chris\Documents\_TUP\Programacion III\Proyecto2025.FE-main\SistemaAlumnos.FE\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\chris\Documents\_TUP\Programacion III\Proyecto2025.FE-main\SistemaAlumnos.FE\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\chris\Documents\_TUP\Programacion III\Proyecto2025.FE-main\SistemaAlumnos.FE\obj\Debug\net8.0-windows\SistemaAlumnos.FE.csproj.AssemblyReference.cache
+C:\Users\chris\Documents\_TUP\Programacion III\Proyecto2025.FE-main\SistemaAlumnos.FE\obj\Debug\net8.0-windows\SistemaAlumnos.FE.Form1.resources
+C:\Users\chris\Documents\_TUP\Programacion III\Proyecto2025.FE-main\SistemaAlumnos.FE\obj\Debug\net8.0-windows\SistemaAlumnos.FE.csproj.GenerateResource.cache
+C:\Users\chris\Documents\_TUP\Programacion III\Proyecto2025.FE-main\SistemaAlumnos.FE\obj\Debug\net8.0-windows\SistemaAlumnos.FE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\Documents\_TUP\Programacion III\Proyecto2025.FE-main\SistemaAlumnos.FE\obj\Debug\net8.0-windows\SistemaAlumnos.FE.AssemblyInfoInputs.cache
+C:\Users\chris\Documents\_TUP\Programacion III\Proyecto2025.FE-main\SistemaAlumnos.FE\obj\Debug\net8.0-windows\SistemaAlumnos.FE.AssemblyInfo.cs
+C:\Users\chris\Documents\_TUP\Programacion III\Proyecto2025.FE-main\SistemaAlumnos.FE\obj\Debug\net8.0-windows\SistemaAlumnos.FE.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\_TUP\Programacion III\Proyecto2025.FE-main\SistemaAlumnos.FE\obj\Debug\net8.0-windows\SistemaA.3EC3AD23.Up2Date
+C:\Users\chris\Documents\_TUP\Programacion III\Proyecto2025.FE-main\SistemaAlumnos.FE\obj\Debug\net8.0-windows\SistemaAlumnos.FE.dll
+C:\Users\chris\Documents\_TUP\Programacion III\Proyecto2025.FE-main\SistemaAlumnos.FE\obj\Debug\net8.0-windows\refint\SistemaAlumnos.FE.dll
+C:\Users\chris\Documents\_TUP\Programacion III\Proyecto2025.FE-main\SistemaAlumnos.FE\obj\Debug\net8.0-windows\SistemaAlumnos.FE.pdb
+C:\Users\chris\Documents\_TUP\Programacion III\Proyecto2025.FE-main\SistemaAlumnos.FE\obj\Debug\net8.0-windows\SistemaAlumnos.FE.genruntimeconfig.cache
+C:\Users\chris\Documents\_TUP\Programacion III\Proyecto2025.FE-main\SistemaAlumnos.FE\obj\Debug\net8.0-windows\ref\SistemaAlumnos.FE.dll
